@@ -20,3 +20,6 @@ https://github.com/iMan0405/Portfolio_DT_vs_AI/blob/40a7a84e3bfff13bf9ca37bc15ac
 4- Loyiha
 Sentiment Analysis for Social Media - Ijtimoiy tarmoqdagi izohlarni tahlil qiluvchi model
 https://github.com/iMan0405/Portfolio_DT_vs_AI/blob/40a7a84e3bfff13bf9ca37bc15ac0dae8f9125b9/Sentiment_Analysis_for_Social_Media.ipynb
+
+5- Loyiha Birjadagi narxlarni prediction qiluvchi model
+https://github.com/iMan0405/Portfolio_DT_vs_AI/blob/d6d0cd04f4c54b6c8d7ee3459ed3a44fe04644aa/stock_market_price_prediction.ipynb
